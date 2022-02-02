@@ -1,6 +1,6 @@
 # Coffee Web Site
 
-<p>	Design responsivo do WebSite Coffe, desenvolvido com HTML, CSS e JavaScript</p>
+<p>	Design responsivo do Coffe Shop WebSite , desenvolvido com HTML, CSS e JavaScript</p>
 
 ### Objetivo
 
@@ -12,4 +12,8 @@
 
 ### Imagens
 
+![](images/Home.png)
 
+![](images/Contact.png)
+
+![](images/Products.png)
