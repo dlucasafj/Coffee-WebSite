@@ -12,5 +12,4 @@
 
 ### Imagens
 
-![](/home/daniel/Documentos/Portifolio/Coffee Web Site/Home.png)
 
